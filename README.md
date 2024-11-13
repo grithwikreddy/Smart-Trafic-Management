@@ -1,4 +1,4 @@
-# Smart-Trafic-Management
+![image](https://github.com/user-attachments/assets/6d17a5ae-84b7-4c23-ab93-ba759f7683f7)# Smart-Trafic-Management
 
 # 1 Introduction
 # 2.1 Aim
@@ -148,6 +148,11 @@ Algorithm for the system:
     END
 
 # OUTPUT:
+![image](https://github.com/user-attachments/assets/4c20e16a-68a7-4fdb-8b6c-7bc75abca32d)
+![image](https://github.com/user-attachments/assets/041c24e1-57ed-45c6-8bab-b6cd124e89fa)
+![image](https://github.com/user-attachments/assets/aab31c42-7049-4fb0-9d6b-c563193eed13)
+![image](https://github.com/user-attachments/assets/3cd8b3bd-11ee-4c3c-9a78-69b34c1f68b2)
+
 # 6.1 Results
 The Smart Traffic Management System was thoroughly tested under various traffic conditions to evaluate its performance. The system successfully monitored traffic density, providing reliable and timely updates on the status of traffic lights and pedestrian crossings.
 The system accurately detected vehicle presence using sensors and adjusted traffic light cycles accordingly. The LCD displayed messages such as "Green Light - No Traffic" or "Pedestrian Crossing" based on traffic and pedestrian input, ensuring smooth traffic flow and pedestrian safety. The buzzer was used effectively to alert nearby vehicles during emergency conditions or when a pedestrian crossing was active.
